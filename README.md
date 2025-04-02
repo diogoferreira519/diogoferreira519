@@ -93,6 +93,8 @@ Olá, sou o Diogo Ferreira, um desenvolvedor apaixonado por tecnologia, com foco
 <br/>
 <br/>
 
+---
+
 ### 📊 Estatísticas
 
 <p>
@@ -111,6 +113,9 @@ Olá, sou o Diogo Ferreira, um desenvolvedor apaixonado por tecnologia, com foco
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogoferreira519&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
+
+<br/>
+<br/>
 
 ---
 
