@@ -1,110 +1,49 @@
-# 👨🏻‍💻 Diogo Ferreira
+### Hi! I am Diogo Ferreira, nice to meet you!! 👋
+#### So, a little bit about me
 
-**`Desenvolvedor FullStack`**
+- 🔭 I'm currently working on projects using NodeJs, ReactJs with Typescript.
+- 👯 I'm looking to collaborate on projects involving React JS, TypeScript, Java, HTML & CSS, and Node.js.
+- 🤝 I'm looking for help with Typescript with NestJs, as it is a vast world of programming and there is always more to learn.
+- :star_struck: For more information: [diogoferreira519.github.io](https://diogoferreira519.github.io)
 
-Olá, sou o Diogo Ferreira, um desenvolvedor apaixonado por tecnologia, com foco em TypeScript, React e Java. Estou sempre em busca de aprender novas tecnologias e melhorar minhas habilidades no desenvolvimento web. Atualmente, estou trabalhando em diversos projetos de software, e compartilho meus conhecimentos através do meu GitHub, onde você pode encontrar meus repositórios e projetos.
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/diogoferreiira) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/diogo-ferreira0701)
 
-<p align="left">
-  <a href="https://github.com/diogoferreira519?tab=repositories&sort=stargazers">
-    <img
-      alt="Total de estrelas"
-      title="Total de estrelas GitHub"
-      src="https://custom-icon-badges.demolab.com/github/stars/diogoferreira519?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-    />
+<div align="center">
+  <a href="https://github.com/diogoferreira519">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=diogoferreira519&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
+    <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=diogoferreira519&theme=dark&hide_border=false"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogoferreira519&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
   </a>
-</p>
+</div>
+    
+
+# 💻 Tech Stack:
+<details>
+  <br>
+  <summary>BackEnd</summary>
+   ![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+   ![MongoDB](https://img.shields.io/badge/mongodb-%2300f.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+   ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+</details>
+<details>
+  <br>
+  <summary>FrontEnd</summary>
+
+   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+   ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+   ![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
+   ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+   ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+  
+</details>
 
 ---
+[![](https://visitcount.itsvg.in/api?id=diogoferreira519&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🤖 Linguagens e Tecnologias
-
-<p align="left">
-  <img
-    alt="TypeScript"
-    title="TypeScript"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
-  />
-  <img
-    alt="React"
-    title="React"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
-  />
-  <img
-    alt="Java"
-    title="Java"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
-  />
-  <img
-    alt="Spring"
-    title="Spring Framework"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
-  />
-  <img
-    alt="Git"
-    title="Git"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
-  />
-  <img
-    alt="NodeJS"
-    title="Node.js"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
-  />
-  <img
-    alt="MongoDB"
-    title="MongoDB"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"
-  />
-  <img
-    alt="MySQL"
-    title="MySQL"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
-  />
-</p>
-
-<br><br>
-
----
-
-### 📊 Estatísticas
-
-<p>
-  <img
-    align="left"
-    alt="GitHub Stats"
-    height="200"
-    style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api?username=diogoferreira519&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-  />
-  <img
-    align="left"
-    alt="GitHub Stats"
-    height="200"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogoferreira519&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
-  />
-</p>
-
-<br><br>
-
----
-
-### 🔗 Links
-
-- [GitHub](https://github.com/diogoferreira519)
-- [LinkedIn](https://www.linkedin.com/in/diogo-ferreira0701)
-- [Portfólio](https://diogoferreira519.github.io)
