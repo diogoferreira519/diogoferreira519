@@ -2,7 +2,7 @@
 #### So, a little bit about me
 
 - 🔭 I'm currently working on projects using NodeJs, ReactJs with Typescript.
-- 👯 I'm looking to collaborate on projects involving React JS, TypeScript, Java, HTML & CSS, and Node.js.
+- 👯 I'm looking to collaborate on projects involving React JS, TypeScript, Node.js, Java, HTML and CSS.
 - 🤝 I'm looking for help with Typescript with NestJs, as it is a vast world of programming and there is always more to learn.
 - :star_struck: For more information: [diogoferreira519.github.io](https://diogoferreira519.github.io)
 
